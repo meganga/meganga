@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ganga Singh, pronounced as "gang-a" and yes, I don't belong to this "gang" if there exists one.😁
+My name is Ganga Singh, pronounced as "gang-a" and no, I don't belong to this "gang" if there exists one.😁
 
 ![](https://komarev.com/ghpvc/?username=meganga)
 
